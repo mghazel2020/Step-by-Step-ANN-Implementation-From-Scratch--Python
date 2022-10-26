@@ -1034,7 +1034,7 @@ Accuracy<span style="color:#308080; ">:</span> <span style="color:#008000; ">1.0
 y <span style="color:#308080; ">=</span> <span style="color:#008000; ">1.0</span><span style="color:#308080; ">,</span> your L<span style="color:#44aadd; ">-</span>layer model predicts a <span style="color:#1060b6; ">"cat"</span> picture<span style="color:#308080; ">.</span>
 </pre>
 
-<img src="results/cat.png" width="500" />
+<img src="results/cat.png" width="250" />
 
 
 ### 4.6. Part 6: Display a final message after successful execution completion:
