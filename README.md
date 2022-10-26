@@ -985,13 +985,13 @@ print_mislabeled_images<span style="color:#308080; ">(</span>classes<span style=
 
 <table>
   <tr>
-    <td> <img src="results/Miss-classified-01.PNG" width="1000" ></td>
+    <td> <img src="results/Miss-classified-01.PNG" width="500" ></td>
   </tr>
   <tr>
-    <td> <img src="results/Miss-classified-02.PNG" width="1000" ></td>
+    <td> <img src="results/Miss-classified-02.PNG" width="500" ></td>
   </tr>
   <tr>
-    <td> <img src="results/Miss-classified-03.PNG" width="1000" ></td>
+    <td> <img src="results/Miss-classified-03.PNG" width="500" ></td>
   </tr>
 </table>
 
@@ -1034,7 +1034,7 @@ Accuracy<span style="color:#308080; ">:</span> <span style="color:#008000; ">1.0
 y <span style="color:#308080; ">=</span> <span style="color:#008000; ">1.0</span><span style="color:#308080; ">,</span> your L<span style="color:#44aadd; ">-</span>layer model predicts a <span style="color:#1060b6; ">"cat"</span> picture<span style="color:#308080; ">.</span>
 </pre>
 
-<img src="results/cat.png" width="1000" />
+<img src="results/cat.png" width="500" />
 
 
 ### 4.6. Part 6: Display a final message after successful execution completion:
