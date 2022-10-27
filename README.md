@@ -8,6 +8,7 @@ The objective of this project is to demonstrate the step-by-step implementation 
 
 ## 2. Motivation
 
+
 It is often said that “What I cannot build, I do not understand”. Thus, in order to gain a deeper understanding of Artificial Neural Networks (ANN), I embarked on this project with the aim to built an ANN, step-by-step and from scratch in NumPy, without making use of any Deep Learning frameworks such as Tensorflow, Keras, etc. 
 
 * Implementing an ANN from scratch is complex process, but it can be broken down to iterating over the following steps:
